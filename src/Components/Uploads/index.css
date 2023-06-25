@@ -1,0 +1,9 @@
+.selected-tab {
+  border-bottom: 4px solid #fc3b3b !important;
+  font-weight: 700 !important;
+  border-radius: 0 !important;
+}
+
+.app-red-btn-contained {
+  background-color: #d90429 !important;
+}

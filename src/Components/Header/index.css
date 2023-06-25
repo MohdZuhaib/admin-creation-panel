@@ -1,0 +1,19 @@
+.outlined-btn-basic {
+  border: 1px solid #dadada !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.black-text {
+  color: #000;
+}
+
+.actions {
+  color: #fc3b3b !important;
+  margin-left: 12px !important;
+  border: 1px solid #dadada !important;
+}
+
+.profile-img {
+  border-radius: 50%;
+}
